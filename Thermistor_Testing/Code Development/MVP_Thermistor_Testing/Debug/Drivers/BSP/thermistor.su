@@ -1,0 +1,6 @@
+../Drivers/BSP/thermistor.c:25:9:i2c_scanner	24	static
+../Drivers/BSP/thermistor.c:42:10:chip_id	24	static
+../Drivers/BSP/thermistor.c:80:10:i2c_read_16bit	32	static
+../Drivers/BSP/thermistor.c:98:10:i2c_write_16bit	40	static
+../Drivers/BSP/thermistor.c:112:6:mvp_thermistor_init	16	static
+../Drivers/BSP/thermistor.c:153:6:mvp_thermistor_process	8	static

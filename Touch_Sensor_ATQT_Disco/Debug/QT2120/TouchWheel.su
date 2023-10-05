@@ -1,0 +1,23 @@
+../QT2120/Appfruits_QTouch.h:43:16:virtual void Appfruits_QTouch_Delegate::onTouchLeftButtonPressed(uint32_t)	16	static
+../QT2120/Appfruits_QTouch.h:44:16:virtual void Appfruits_QTouch_Delegate::onTouchTopButtonPressed(uint32_t)	16	static
+../QT2120/Appfruits_QTouch.h:45:16:virtual void Appfruits_QTouch_Delegate::onTouchRightButtonPressed(uint32_t)	16	static
+../QT2120/Appfruits_QTouch.h:46:16:virtual void Appfruits_QTouch_Delegate::onTouchBottomButtonPressed(uint32_t)	16	static
+../QT2120/Appfruits_QTouch.h:48:16:virtual void Appfruits_QTouch_Delegate::onSlider(uint8_t, int8_t)	16	static
+../QT2120/Appfruits_QTouch.h:49:16:virtual void Appfruits_QTouch_Delegate::onTouchDown()	16	static
+../QT2120/Appfruits_QTouch.h:50:16:virtual void Appfruits_QTouch_Delegate::onTouchUp(uint32_t)	16	static
+../QT2120/Appfruits_QTouch.h:40:7:constexpr Appfruits_QTouch_Delegate::Appfruits_QTouch_Delegate()	16	static
+../QT2120/TouchWheel.cpp:21:1:TouchWheel::TouchWheel(Appfruits_QTouch*)	16	static
+../QT2120/TouchWheel.cpp:28:6:void TouchWheel::begin()	16	static
+../QT2120/TouchWheel.cpp:38:6:void TouchWheel::update()	16	static
+../QT2120/TouchWheel.cpp:51:6:void TouchWheel::resetStates()	24	static
+../QT2120/TouchWheel.cpp:62:6:bool TouchWheel::isButtonReleased(TouchWheel::Direction)	16	static
+../QT2120/TouchWheel.cpp:67:6:bool TouchWheel::isSliding()	16	static
+../QT2120/TouchWheel.cpp:72:8:int8_t TouchWheel::getSliderDelta()	16	static
+../QT2120/TouchWheel.cpp:77:9:uint8_t TouchWheel::getSliderPosition()	16	static
+../QT2120/TouchWheel.cpp:82:6:virtual void TouchWheel::onTouchLeftButtonPressed(uint32_t)	16	static
+../QT2120/TouchWheel.cpp:87:6:virtual void TouchWheel::onTouchTopButtonPressed(uint32_t)	16	static
+../QT2120/TouchWheel.cpp:92:6:virtual void TouchWheel::onTouchRightButtonPressed(uint32_t)	16	static
+../QT2120/TouchWheel.cpp:97:6:virtual void TouchWheel::onTouchBottomButtonPressed(uint32_t)	16	static
+../QT2120/TouchWheel.cpp:102:6:virtual void TouchWheel::onSlider(uint8_t, int8_t)	16	static
+../QT2120/TouchWheel.cpp:111:6:virtual void TouchWheel::onTouchDown()	16	static
+../QT2120/TouchWheel.cpp:116:6:virtual void TouchWheel::onTouchUp(uint32_t)	16	static

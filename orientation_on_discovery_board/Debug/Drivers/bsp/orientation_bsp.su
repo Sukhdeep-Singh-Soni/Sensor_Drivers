@@ -1,0 +1,4 @@
+../Drivers/bsp/orientation_bsp.c:22:6:icm_hd_mvmt_init	8	static
+../Drivers/bsp/orientation_bsp.c:47:5:icm_hd_mvmt_process	8	static
+../Drivers/bsp/orientation_bsp.c:72:9:int32abs	16	static
+../Drivers/bsp/orientation_bsp.c:77:5:head_mvmt_get	8	static

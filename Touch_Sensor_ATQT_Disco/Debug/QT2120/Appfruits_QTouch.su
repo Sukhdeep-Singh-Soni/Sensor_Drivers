@@ -1,0 +1,26 @@
+../QT2120/Appfruits_QTouch.cpp:30:1:Appfruits_QTouch::Appfruits_QTouch()	24	static
+../QT2120/Appfruits_QTouch.cpp:44:6:void Appfruits_QTouch::begin()	16	static
+../QT2120/Appfruits_QTouch.cpp:49:6:bool Appfruits_QTouch::isBitSet(uint8_t, uint8_t)	16	static
+../QT2120/Appfruits_QTouch.cpp:54:9:uint8_t Appfruits_QTouch::readRegister8(uint8_t)	32	static
+../QT2120/Appfruits_QTouch.cpp:75:10:uint16_t Appfruits_QTouch::readRegister16(uint8_t)	32	static
+../QT2120/Appfruits_QTouch.cpp:100:6:void Appfruits_QTouch::writeRegister(uint8_t, uint8_t)	32	static
+../QT2120/Appfruits_QTouch.cpp:116:6:void Appfruits_QTouch::enableWheel()	16	static
+../QT2120/Appfruits_QTouch.cpp:121:6:void Appfruits_QTouch::enableSlider()	16	static
+../QT2120/Appfruits_QTouch.cpp:126:6:bool Appfruits_QTouch::eventAvailable()	16	static
+../QT2120/Appfruits_QTouch.cpp:142:6:bool Appfruits_QTouch::isKeyPressed(uint8_t)	24	static
+../QT2120/Appfruits_QTouch.cpp:157:6:void Appfruits_QTouch::setDetectThreshold(uint8_t, uint8_t)	24	static
+../QT2120/Appfruits_QTouch.cpp:167:9:uint8_t Appfruits_QTouch::getDetectThreshold(uint8_t)	24	static
+../QT2120/Appfruits_QTouch.cpp:173:6:void Appfruits_QTouch::setDetectionIntegrator(uint8_t)	16	static
+../QT2120/Appfruits_QTouch.cpp:182:9:uint8_t Appfruits_QTouch::getDetectionIntegrator()	16	static
+../QT2120/Appfruits_QTouch.cpp:187:6:bool Appfruits_QTouch::touchDetected()	24	static
+../QT2120/Appfruits_QTouch.cpp:198:6:bool Appfruits_QTouch::sliderDetected()	24	static
+../QT2120/Appfruits_QTouch.cpp:211:6:bool Appfruits_QTouch::wheelDetected()	16	static
+../QT2120/Appfruits_QTouch.cpp:216:9:uint8_t Appfruits_QTouch::sliderPosition()	24	static
+../QT2120/Appfruits_QTouch.cpp:222:8:int8_t Appfruits_QTouch::sliderDelta()	32	static
+../QT2120/Appfruits_QTouch.cpp:285:9:uint8_t Appfruits_QTouch::wheelPosition()	16	static
+../QT2120/Appfruits_QTouch.cpp:290:8:int8_t Appfruits_QTouch::wheelDelta()	16	static
+../QT2120/Appfruits_QTouch.cpp:295:6:void Appfruits_QTouch::setDragging(bool)	24	static
+../QT2120/Appfruits_QTouch.cpp:346:6:bool Appfruits_QTouch::isDragging()	16	static
+../QT2120/Appfruits_QTouch.cpp:351:9:uint8_t Appfruits_QTouch::getLastSliderPos()	16	static
+../QT2120/Appfruits_QTouch.cpp:356:6:void Appfruits_QTouch::setDelegate(Appfruits_QTouch_Delegate*)	16	static
+../QT2120/Appfruits_QTouch.cpp:361:6:void Appfruits_QTouch::Touch_sensitivity_set()	16	static

@@ -1,0 +1,12 @@
+../QT2120/Arg_mvp_Qtouch.cpp:26:6:void QTouch_Init()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:37:6:void QTouch_loop()	24	static
+../QT2120/Arg_mvp_Qtouch.cpp:66:6:bool QTouch_INT()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:75:6:bool QTouch_key0()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:90:6:bool QTouch_key1()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:105:6:bool QTouch_key2()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:120:6:bool QTouch_key3()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:135:6:bool QTouch_key4()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:150:6:bool QTouch_key5()	8	static
+../QT2120/Arg_mvp_Qtouch.cpp:165:9:uint8_t QTouch_Slider()	16	static
+../QT2120/Arg_mvp_Qtouch.cpp:182:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../QT2120/Arg_mvp_Qtouch.cpp:182:1:cpp)	8	static

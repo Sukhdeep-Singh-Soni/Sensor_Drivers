@@ -1,0 +1,5 @@
+../Drivers/TOF/tof.c:17:9:tof_init	8	static
+../Drivers/TOF/tof.c:60:9:tof_process	8	static
+../Drivers/TOF/tof.c:68:9:Gesture_Detection	32	static
+../Drivers/TOF/tof.c:125:6:Gesture_Detection_IT	8	static
+../Drivers/TOF/tof.c:196:5:__io_putchar	16	static

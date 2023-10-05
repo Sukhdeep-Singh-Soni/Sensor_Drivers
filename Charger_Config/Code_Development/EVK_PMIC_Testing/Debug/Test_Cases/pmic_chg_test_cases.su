@@ -1,0 +1,10 @@
+../Test_Cases/pmic_chg_test_cases.c:24:10:Test_Chip_ID	24	static
+../Test_Cases/pmic_chg_test_cases.c:41:10:Test_SBBx_Voltage	32	static
+../Test_Cases/pmic_chg_test_cases.c:63:10:Test_LDOx_Voltage	32	static
+../Test_Cases/pmic_chg_test_cases.c:85:10:Test_I2C_Scanner	32	static
+../Test_Cases/pmic_chg_test_cases.c:108:10:Test_Local_I2C_Transmit	32	static
+../Test_Cases/pmic_chg_test_cases.c:127:10:Test_Local_I2C_Receive	32	static
+../Test_Cases/pmic_chg_test_cases.c:150:10:Test_Reg_Write	32	static
+../Test_Cases/pmic_chg_test_cases.c:182:10:Test_Reg_Read	32	static
+../Test_Cases/pmic_chg_test_cases.c:206:10:Test_Charger_Status	24	static
+../Test_Cases/pmic_chg_test_cases.c:229:10:Test_Suspend_Charger	24	static

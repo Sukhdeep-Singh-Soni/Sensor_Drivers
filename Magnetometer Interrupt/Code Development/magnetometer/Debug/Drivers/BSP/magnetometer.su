@@ -1,0 +1,12 @@
+../Drivers/BSP/magnetometer.c:28:9:i2c_scanner	24	static
+../Drivers/BSP/magnetometer.c:45:6:i2c_mag_setup	4	static
+../Drivers/BSP/magnetometer.c:55:6:mag_reset	16	static
+../Drivers/BSP/magnetometer.c:62:6:mag_init	16	static
+../Drivers/BSP/magnetometer.c:135:6:bsp_init	8	static
+../Drivers/BSP/magnetometer.c:147:6:bsp_process	8	static
+../Drivers/BSP/magnetometer.c:170:6:mag_process	8	static
+../Drivers/BSP/magnetometer.c:187:6:mag_int_gen	16	static
+../Drivers/BSP/magnetometer.c:249:9:i2c_read_8bit	40	static
+../Drivers/BSP/magnetometer.c:260:9:i2c_write_8bit	40	static
+../Drivers/BSP/magnetometer.c:271:6:HAL_GPIO_EXTI_Rising_Callback	24	static
+../Drivers/BSP/magnetometer.c:289:5:__io_putchar	16	static
